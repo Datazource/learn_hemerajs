@@ -1,0 +1,27 @@
+{
+  "name": "learn_hemerajs",
+  "version": "1.0.0",
+  "description": "Just Learn some Microservices Framework",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Datazource/learn_hemerajs.git"
+  },
+  "keywords": [
+    "Learn",
+    "HemeraJS"
+  ],
+  "author": "Paulus Donny Junianto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Datazource/learn_hemerajs/issues"
+  },
+  "homepage": "https://github.com/Datazource/learn_hemerajs#readme",
+  "dependencies": {
+    "nats": "^0.8.4",
+    "nats-hemera": "^4.0.0"
+  }
+}
